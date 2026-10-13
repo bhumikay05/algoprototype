@@ -1,0 +1,1 @@
+RecallForge AI is a personalized learning platform that converts study materials into structured questions, from basic to advanced levels. It helps students test their understanding, identify missing concepts, receive AI-assisted feedback, and focus on weak topics through targeted revision.
